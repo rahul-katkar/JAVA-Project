@@ -35,5 +35,8 @@ The second option should return the details of the user interface such as option
     DeleteFile( ) - To delete a specified file
     main( ) - For creating the UI and taking user inputs
 
+    ![Screenshot] (Class.png)
+    
+** Project Flowchart - **
 
-
+ ![Screenshot] (Flowchart.png)
